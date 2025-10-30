@@ -1,0 +1,2 @@
+This repository uses GitHub Actions for automated CI/CD.
+The workflow runs main.py automatically on every push and produces output.csv as a downloadable artifact.
